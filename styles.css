@@ -1,0 +1,35 @@
+
+body {
+    margin: 0px;
+
+}
+
+.site-header {
+    max-width: 600px;
+    margin:auto;
+    width: 100%;
+}
+
+h1, h4 {
+    font-family: "helvetica-lt-pro", sans-serif;
+}
+
+.main {
+ max-width: 600px;
+    margin:auto;
+    font-family: "helvetica-lt-pro", sans-serif;
+}
+
+.hero-image {
+    border-bottom: 8px solid #ffe043;
+    display: block;
+    width: 100%;
+}
+
+.image-caption {
+    background-color: rgb(222, 219, 219);
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: small;
+}
